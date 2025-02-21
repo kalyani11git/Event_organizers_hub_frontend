@@ -1,16 +1,16 @@
-# 🎉 Event Management Platform  
+ Event Organizers Platform  
 
 An event management platform built with **Spring Boot**, **React**. Event organizers can showcase their work, and users can explore, follow, and connect with them.  
 
-## ✨ Features  
+##  Features  
 
-### 🎭 Event Organizers  
+###  Event Organizers  
 ✅ **Signup/Login** (JWT authentication)  
 ✅ **Upload event decoration pictures**  
 ✅ **Update & delete uploaded images**  
 ✅ **Receive emails from users**  
 
-### 👥 Normal Users  
+###  Normal Users  
 ✅ **View event organizers' work**  
 ✅ **Follow/unfollow organizers**  
 ✅ **Send emails to event organizers**  
@@ -29,4 +29,7 @@ An event management platform built with **Spring Boot**, **React**. Event organi
 
 ---
 
+## 🔗 Link  
+- **Backend Repository:** [Event_organizers_hub-backend]((https://github.com/kalyani11git/Event_organizers_hub_backend.git))  
+ 
 
